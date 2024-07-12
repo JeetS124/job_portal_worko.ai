@@ -1,0 +1,58 @@
+/* background-color */
+.bg-light-gray{
+  background-color: #d6daeca8 !important;
+}
+.bg-light-blue{
+  background-color: #8f99c442 !important;
+}
+
+
+/* padding */
+.px-10 {
+  padding-right: 40px !important;
+  padding-left: 40px !important;
+}
+
+.px-20 {
+  padding-right: 80px !important;
+  padding-left: 80px !important;
+}
+
+
+/* font size */
+.fs-14 {
+  font-size: 56px !important;
+}
+
+.fs-15 {
+  font-size: 60px !important;
+}
+
+.fs-18 {
+  font-size: 72px !important;
+}
+
+.fs-20 {
+  font-size: 80px !important;
+}
+
+/* position  */
+.top-40 {
+  top: 250px !important;
+}
+
+/* index.css or App.css */
+@keyframes slideFromTop {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/*  */
+.fade {
+  background-color: #000000;
+}
